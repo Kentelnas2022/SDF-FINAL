@@ -23,7 +23,6 @@
                 <input type="text" class="input-field" placeholder="Username" name="username">
                 <input type="password" class="input-field" placeholder="Enter Password" name="password">
                 <button type="submit" class="submit-btn" value="Login">Login</button>
-                <p class="message">Are you an <a href="admin_reglog.php">Admin?</a></p>
             </form>
 
             <form action="register_action.php" method="POST" id="register" class="input-group">
